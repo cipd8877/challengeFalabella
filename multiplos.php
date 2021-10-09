@@ -3,6 +3,7 @@
 
 $limitNumber = $_GET['limitNumber'];
 
+$limitNumber  = 100;
 
 
 $multiple3 = 3;
